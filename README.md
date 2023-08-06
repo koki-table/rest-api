@@ -1,3 +1,20 @@
+
+### MSW を使って REST API を Mock したReactアプリケーションのサンプルです
+
+### Usage
+起動方法については、以下のコマンドを実行してください。
+
+```
+$ yarn
+$ yarn start
+```
+
+### 詳細
+- [MSW](https://mswjs.io/)を利用して、REST APIをMockしています。
+- GET 処理のみ実装しています。
+
+## 下記Create React Appのテンプレートの説明
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
